@@ -1,10 +1,10 @@
-### First AI Project: Paramedic Copilot 🚑🤖
+First AI Project: Paramedic Copilot 
 I’ve been working on my first AI project: **Paramedic Copilot**.
 The idea is to explore how AI could potentially assist paramedics by providing useful information and support during emergency scenarios.
 I built the project using **Python** and **Ollama**, allowing me to run an AI model locally rather than relying entirely on a cloud-based service.
 This project has been a great introduction to working with AI, and I’ve learned a lot about connecting Python applications with local AI models, structuring prompts, and thinking about how AI could be applied to real-world problems.
 It’s still an early project and definitely has room for improvement, but I’m excited to keep developing it and see what I can build next.
 This is a learning project and is **not intended to replace professional medical judgment or clinical protocols**.
-#Python #AI #ArtificialIntelligence #Ollama #Programming #Paramedicine #MachineLearning #SoftwareDevelopment
+
 
 
